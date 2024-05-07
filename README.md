@@ -24,4 +24,4 @@ Bienvenido a la charla de Prompt Engineering con Gemini AI y ChatGPT, esta charl
 [📚 Diapositivas en extension .pdf](https://drive.google.com/file/d/1F3ttVPu8n3a6bWZwNQtv1OpTtnZ7BAU8/view?usp=drive_link)
 
 # Accede al Notion 📌
-[Notion de Prompt Engineering 🔎](https://github.com/julianacastilloaraujo/HolaMundoDay-Charla/assets/96964513/2515a751-a7fd-4cb2-8193-b1a48a8b8517)
+[Notion de Prompt Engineering 🔎](https://twisty-receipt-2f6.notion.site/Prompts-en-Espa-ol-17cc22116249492c8d5a0aa7382809a9)
