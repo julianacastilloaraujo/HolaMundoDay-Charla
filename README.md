@@ -9,10 +9,11 @@
 </a>
   <img align="center" width="17%" src="https://private-user-images.githubusercontent.com/96964513/328582192-35d0aa49-baa3-4f97-a144-431ac7455c1d.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTUwOTU5MjAsIm5iZiI6MTcxNTA5NTYyMCwicGF0aCI6Ii85Njk2NDUxMy8zMjg1ODIxOTItMzVkMGFhNDktYmFhMy00Zjk3LWExNDQtNDMxYWM3NDU1YzFkLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA1MDclMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwNTA3VDE1MjcwMFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTYzZmM0ZmExOTU1MGFlMWE5NzYyZmE4OTk5NmQ3Y2M0YzJjMjhkMWIwODhkNTVlNGY5NjM5MTI0MjEzOThlMGMmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.QgIbGMOrFp1VFe4WnvfWfggjjHNSJG6YLUmRLhAMZ8I">
 </a>
-  
 </div>
+<br>
+Bienvenido a la charla de Prompt Engineering con Gemini AI y ChatGPT, esta charla ha sido realizada con la finalidad de que domines herramientas nuevas de inteligencia artificial, a su vez varia fuente de información ha sido tomada de cursos, bootcamps y webinas enfocados a E-learning (@platzi @youtube) Espero que estas slides y topics sean increibles para tu proceso de aprendizaje 🧠 <br>
+<br>
 
-Bienvenido a la charla de Prompt Engineering con Gemini AI y ChatGPT, esta charla ha sido realizada con la finalidad de que domines herramientas nuevas de inteligencia artificial, a su vez varia fuente de información ha sido tomada de cursos, bootcamps y webinas enfocados a E-learning (@platzi @youtube) Espero que estas slides y topics sean increibles para tu proceso de aprendizaje 🧠
 > [!NOTE]
 > Evento: Hola Mundo Day <br>
 > Fecha: 7 de may <br>
@@ -21,3 +22,6 @@ Bienvenido a la charla de Prompt Engineering con Gemini AI y ChatGPT, esta charl
 # Accede a las 60 slides 🚀 de la charla aqui
 [🎯 Diapositivas en extension .ppt](https://docs.google.com/presentation/d/1b7V5IFVLw2qMbJ0DI2_9sYYChcsRiF6v/edit?usp=drive_link&ouid=101757647096398765195&rtpof=true&sd=true) <br>
 [📚 Diapositivas en extension .pdf](https://drive.google.com/file/d/1F3ttVPu8n3a6bWZwNQtv1OpTtnZ7BAU8/view?usp=drive_link)
+
+# Accede al Notion 📌
+[Notion de Prompt Engineering 🔎](https://github.com/julianacastilloaraujo/HolaMundoDay-Charla/assets/96964513/2515a751-a7fd-4cb2-8193-b1a48a8b8517)
