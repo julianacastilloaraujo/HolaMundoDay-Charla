@@ -14,3 +14,5 @@ Bienvenido a la charla de Prompt Engineering con Gemini AI y ChatGPT, esta charl
 
 # Accede al Notion 📌
 [Notion de Prompt Engineering 🔎](https://twisty-receipt-2f6.notion.site/Prompts-en-Espa-ol-17cc22116249492c8d5a0aa7382809a9)
+
+# Accede a la grabacion en YotuTube🎥
