@@ -1,5 +1,4 @@
 # Charla Prompt Engineering 🤖
-
 Bienvenido a la charla de Prompt Engineering con Gemini AI y ChatGPT, esta charla ha sido realizada con la finalidad de que domines herramientas nuevas de inteligencia artificial, a su vez varia fuente de información ha sido tomada de cursos, bootcamps y webinas enfocados a E-learning (@platzi @youtube) Espero que estas slides y topics sean increibles para tu proceso de aprendizaje 🧠<br>
 <br>
 
