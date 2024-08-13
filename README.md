@@ -19,6 +19,6 @@
 
 📢  Charla llevada a cabo durante el Hola Mundo day 2024
 • Autora: Juliana Castillo Araujo -   / julianacastilloaraujo  
-• Toda la información sobre la conferencia en https://holamundo.day
+• Toda la información sobre la conferencia en []https://holamundo.day
 
 - [📹 Grabación en YouTube](https://youtu.be/REhrWtTQsuo?si=X5UKMrzeIAOY-6f6)
